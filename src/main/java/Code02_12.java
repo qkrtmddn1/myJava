@@ -5,7 +5,7 @@ public class Code02_12 {
         String str;
         str = "12324";
         num1 = Integer.parseInt(str);
-        System.out.println("문자열 ==> 정수 : " +num1);
+        System.out.println("문자열 ==> 정수 : " + num1);
 
         str = "3.14";
         num2 = Double.parseDouble(str);
