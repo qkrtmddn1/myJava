@@ -8,9 +8,9 @@ public class Code03_12 {
 
         num = s.nextInt();
 
-        System.out.println( (num > 100) && (num < 200) );
-        System.out.println( ( num == 99) || (num < 100) );
-        System.out.println( !(num == 100) );
+        System.out.println((num > 100) && (num < 200));
+        System.out.println((num == 99) || (num < 100));
+        System.out.println(!(num == 100));
         s.close();
     }
 }
