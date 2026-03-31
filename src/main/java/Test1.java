@@ -12,6 +12,7 @@ public class Test1 {
         }
         else {
             System.out.println("홀수");
+            s.close();
         }
     }
 }
