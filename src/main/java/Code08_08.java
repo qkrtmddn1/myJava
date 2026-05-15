@@ -31,7 +31,7 @@ class  MountainRabbit3 extends Rabbit4 {
     }
 }
 
-public class Codie08_08 {
+public class Code08_08 {
     public static void main(String[] args) {
         HouseRabbit3 hRabbit = new HouseRabbit3();
         MountainRabbit3 mRabbit = new MountainRabbit3();
