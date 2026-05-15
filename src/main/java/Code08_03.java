@@ -1,4 +1,4 @@
-class Rabbit {
+class Rabbit11 {
     String shape;
     int xPos;
     int yPos;
@@ -8,13 +8,13 @@ class Rabbit {
         this.yPos = y;
     }
 }
-class HouseRabbit extends Rabbit {
+class HouseRabbit extends Rabbit11 {
     String owner;
     void eatFeed() {
         System.out.println("집토끼가 시료를 먹습니다.");
         }
     }
-class MountainRabbit extends Rabbit {
+class MountainRabbit extends Rabbit11 {
     String mountain;
     void eatWildglass() {
         System.out.println("산토끼가 풀을 먹습니다.");
